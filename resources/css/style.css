@@ -27,10 +27,7 @@ html {
     display: block;
     height: 0;
     visibility: hidden;
-
 }
-
-
 
 /* ----------------------------------------------------- */
 /* REUSABLE COMPONENTS */
@@ -186,7 +183,6 @@ a:active {
     color:#fff;
 }
 
-
 /* ----------------------------------------------------- */
 /* HEADER */
 /* -----------------------------------------------------*/
@@ -240,7 +236,6 @@ header {
 .main-nav li a:active {
     border-bottom: 2px solid #e67e22;
 }
-
 
 /* ----------------------------------------------------- */
 /* FEATURES */
@@ -414,7 +409,7 @@ cite img {
   border-radius: 5px;
   width: 90%;
   margin-left: 5%;
-  box-shadow: 0 2px 2px #edecec;
+  box-shadow: 0 5px 5px #edecec;
 }
 
 .plan-box div {
